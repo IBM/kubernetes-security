@@ -1,22 +1,11 @@
 # Summary
 
-<!-- Rules of SUMMARY.md are here: https://docs.gitbook.com/integrations/github/content-configuration#summary -->
-<!-- All headings MUST be THREE hashmarks (###) -->
-<!-- Indented bullets (4 spaces) will make the first line be a section -->
 
-### Getting Started
+### Workshop
 
-* [Pre-work](pre-work/README.md)
-
-### Some Heading
-
-* [Some Section](some-section/README.md)
-    * [Some Exercise](some-exercise/README.md)
-
-### Workshop Resources
-
-* [Instructor Guide](admin-guide/README.md)
-
-### Resources
-
-* [IBM Developer](https://developer.ibm.com)
+* [Networking 101](https://github.com/remkohdev/kubernetes-networking)
+* [Storage 201](https://github.com/remkohdev/kubernetes-storage)
+* [Source-to-Image (s2i)](https://github.com/IBM/s2i-open-liberty-workshop)
+* [Operators 101](https://github.com/remkohdev/kubernetes-extensions)
+* [STIX-shifter 101](https://github.com/remkohdev/stixshifter101)
+* [Container Security 301](https://developer.ibm.com/tutorials/installing-and-using-sysdig-falco/)
