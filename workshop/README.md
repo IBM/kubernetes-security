@@ -67,43 +67,43 @@
 
 | Duration | Title | Speaker |
 | - | - | - |
-| - | [Keynote - Policy Based Governance for Open Hybrid Cloud](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-keynote-policy-based-governance-for-open-hybrid-cloud/) | Jayashree Ramanathan |
-| - | [IBM Garage Best Practices: Developing Secure Applications for Enterprise Clients](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-1-ibm-garage-best-practices-developing-secure-applications-for-enterprise-clients/) | Chris Weber, Ilene Seelemann |
-| - | [IBM Cloud Hyper Protect Virtual Servers and deploying secure applications on container-ready IBM Storage for Kubernetes with CSI specification](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-2-ibm-cloud-hyper-protect-virtual-servers-and-deploying-secure-applications-on-container-ready-ibm-storage-for-kubernetes-with-csi-specification/) | Chris Poole, Matt Levan |
-| - | [Think Like a Hacker! Securing Containers: They're just like VMs, except when they are not](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-3-think-like-a-hacker-securing-containers-theyre-just-like-vms-except-when-they-are-not/) | Troy Fisher |
-| - | [Best Practices in API security and securing enterprises using APIConnect and DataPower Gateways](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-4-best-practices-in-api-security-and-securing-enterprises-using-apiconnect-and-datapower-gateways/) | Krithika Prakash |
-| - | [Keys under doormats: Problems and Solutions for Securely Storing Credentials in Web Apps using Key Encrypting Key (KEK)](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-5-keys-under-doormats-problems-and-solutions-for-securely-storing-credentials-in-web-apps-using-key-encrypting-key-kek/) | Ron Craig |
+| 20 mins | [Keynote - Policy Based Governance for Open Hybrid Cloud](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-keynote-policy-based-governance-for-open-hybrid-cloud/) | Jayashree Ramanathan |
+| 30 mins | [IBM Garage Best Practices: Developing Secure Applications for Enterprise Clients](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-1-ibm-garage-best-practices-developing-secure-applications-for-enterprise-clients/) | Chris Weber, Ilene Seelemann |
+| 30 mins | [IBM Cloud Hyper Protect Virtual Servers and deploying secure applications on container-ready IBM Storage for Kubernetes with CSI specification](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-2-ibm-cloud-hyper-protect-virtual-servers-and-deploying-secure-applications-on-container-ready-ibm-storage-for-kubernetes-with-csi-specification/) | Chris Poole, Matt Levan |
+| 30 mins | [Think Like a Hacker! Securing Containers: They're just like VMs, except when they are not](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-3-think-like-a-hacker-securing-containers-theyre-just-like-vms-except-when-they-are-not/) | Troy Fisher |
+| 30 mins | [Best Practices in API security and securing enterprises using APIConnect and DataPower Gateways](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-4-best-practices-in-api-security-and-securing-enterprises-using-apiconnect-and-datapower-gateways/) | Krithika Prakash |
+| 30 mins | [Keys under doormats: Problems and Solutions for Securely Storing Credentials in Web Apps using Key Encrypting Key (KEK)](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-tech-talk-5-keys-under-doormats-problems-and-solutions-for-securely-storing-credentials-in-web-apps-using-key-encrypting-key-kek/) | Ron Craig |
 
 
 **Data Security**
 
 | Duration | Title | Speaker |
 | - | - | - |
-| - | [Keynote - NIST Controls and IBM Financial Services Cloud](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-keynote-nist-controls-and-ibm-financial-services-cloud/) | Charles Brown |
-| - | [Keeping your Data-in-Place Protected in the Cloud using IBM Hyper Protect](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-tech-talk-1-keeping-your-data-in-place-protected-in-the-cloud-using-ibm-hyper-protect/) | Stefan Schmitt |
-| - | [Automatic mTLS and More: How Istio Secures your Application Data-in-Motion](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-tech-talk-2-automatic-mtls-and-more-how-istio-secures-your-application-data-in-motion/) | Gregory I Hanson |
-| - | [Adversarial Robustness Toolbox (ART) - Evasion, Poisoning, Extraction and Inference](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-tech-talk-4-adversarial-robustness-toolbox-art-evasion-poisoning-extraction-and-inference/) | Beat Buesser |
-| - | [Protecting data using secret management with Trusted Service Identity (TSI)](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-tech-talk-5-protecting-data-using-secret-management-with-trusted-service-identity-tsi/) | Mariusz Sabath |
+| 20 mins | [Keynote - NIST Controls and IBM Financial Services Cloud](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-keynote-nist-controls-and-ibm-financial-services-cloud/) | Charles Brown |
+| 30 mins | [Keeping your Data-in-Place Protected in the Cloud using IBM Hyper Protect](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-tech-talk-1-keeping-your-data-in-place-protected-in-the-cloud-using-ibm-hyper-protect/) | Stefan Schmitt |
+| 30 mins | [Automatic mTLS and More: How Istio Secures your Application Data-in-Motion](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-tech-talk-2-automatic-mtls-and-more-how-istio-secures-your-application-data-in-motion/) | Gregory I Hanson |
+| 30 mins | [Adversarial Robustness Toolbox (ART) - Evasion, Poisoning, Extraction and Inference](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-tech-talk-4-adversarial-robustness-toolbox-art-evasion-poisoning-extraction-and-inference/) | Beat Buesser |
+| 30 mins | [Protecting data using secret management with Trusted Service Identity (TSI)](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-tech-talk-5-protecting-data-using-secret-management-with-trusted-service-identity-tsi/) | Mariusz Sabath |
 
 
 **DevSecOps**
 
 | Duration | Title | Speaker |
 | - | - | - |
-| - | Keynote - DevSecOps for Cloud Native development on IBM Z | Rosalind Radcliffe |
-| - | [How to secure a Tekton-based Build of Container Images on Kubernetes](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-tech-talk-1-how-to-secure-a-tekton-based-build-of-container-images-on-kubernetes/) | Enrique Encalada, Jordan Zhang |
-| - | [Falco with Kubernetes on IBM Cloud](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-tech-talk-2-cloud-native-runtime-security-with-falco-threat-detection-engine-for-kubernetes/) | Kris Nova |
-| - | [Automating Cloud Security & Compliance](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-tech-talk-3-security-compliance-of-docker-containers-with-openscap-container-scanning/) | Jan Cerny, Simon Lukasik |
-| - | [From Hardware Root of Trust (RoT) to Containers: Running Trusted Containers on a High Assurance OpenShift Platform](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-tech-talk-5-from-hardware-root-of-trust-rot-to-containers-running-trusted-containers-on-a-high-assurance-openshift-platform/) | Brandon Lum, Harmeet Singh |
+| 20 mins | Keynote - DevSecOps for Cloud Native development on IBM Z | Rosalind Radcliffe |
+| 30 mins | [How to secure a Tekton-based Build of Container Images on Kubernetes](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-tech-talk-1-how-to-secure-a-tekton-based-build-of-container-images-on-kubernetes/) | Enrique Encalada, Jordan Zhang |
+| 30 mins | [Falco with Kubernetes on IBM Cloud](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-tech-talk-2-cloud-native-runtime-security-with-falco-threat-detection-engine-for-kubernetes/) | Kris Nova |
+| 30 mins | [Automating Cloud Security & Compliance](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-tech-talk-3-security-compliance-of-docker-containers-with-openscap-container-scanning/) | Jan Cerny, Simon Lukasik |
+| 30 mins | [From Hardware Root of Trust (RoT) to Containers: Running Trusted Containers on a High Assurance OpenShift Platform](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-tech-talk-5-from-hardware-root-of-trust-rot-to-containers-running-trusted-containers-on-a-high-assurance-openshift-platform/) | Brandon Lum, Harmeet Singh |
 
 
 ### Labs
 
 | Duration | Title | Speaker |
 | - | - | - |
-| - | [DDC: Hands-on Lab - Kubernetes Networking - Control Cluster Access with Service Types, Ingress and Network Policies](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-hands-on-lab-kubernetes-networking-control-cluster-access-with-service-types-ingress-and-network-policies/) | Aya Tokura |
-| - | [DDC: Hands On Lab - Adding Secure Encrypted Object Storage using a Persistent Volume for MongoDB with S3FS-Fuse](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-hands-on-lab-adding-secure-encrypted-object-storage-using-a-persistent-volume-for-mongodb-with-s3fs-fuse/) | Nigel Brown |
-| - | [DDC: Hands On Lab - Source-to-Image (S2I) Deployment with UBI, Custom Builder and Runtime Images and Templates](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-hands-on-lab-source-to-image-s2i-deployment-with-ubi-custom-builder-and-runtime-images-and-templates/) | Oliver Rodriguez |
+| 60 mins | [DDC: Hands-on Lab - Kubernetes Networking - Control Cluster Access with Service Types, Ingress and Network Policies](https://developer.ibm.com/conferences/digital-developer-conference-security/application-security/application-security-hands-on-lab-kubernetes-networking-control-cluster-access-with-service-types-ingress-and-network-policies/) | Aya Tokura |
+| 60 mins | [DDC: Hands On Lab - Adding Secure Encrypted Object Storage using a Persistent Volume for MongoDB with S3FS-Fuse](https://developer.ibm.com/conferences/digital-developer-conference-security/data-security/data-security-hands-on-lab-adding-secure-encrypted-object-storage-using-a-persistent-volume-for-mongodb-with-s3fs-fuse/) | Nigel Brown |
+| 75 mins | [DDC: Hands On Lab - Source-to-Image (S2I) Deployment with UBI, Custom Builder and Runtime Images and Templates](https://developer.ibm.com/conferences/digital-developer-conference-security/devsecops/devsecops-hands-on-lab-source-to-image-s2i-deployment-with-ubi-custom-builder-and-runtime-images-and-templates/) | Oliver Rodriguez |
 
 
 ## Compatibility
