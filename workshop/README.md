@@ -19,6 +19,7 @@
 | - | - |
 | [Lecture: Overview of Kubernetes Networking](link) |  An overview of Kubernetes Networking from Service Types, Ingress and Route, Network Policies |
 | [Lecture: Overview of Kubernetes Extensions](link) |  An overview of Kubernetes Extensions Custom Resources, Controllers, Operator Pattern, Cloud Paks |
+| [Lecture: Introduction to API Connect](https://github.com/IBM/cloudpakforintegration-workshop/blob/master/workshop/SUMMARY.md) | An Overview of API Connect |
 
 ## Hands-on Labs
 
