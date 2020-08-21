@@ -32,6 +32,7 @@
 | 45 mins | [Lab: Operators 101](generatedContent/link) | Creating Operators with Existing Helm Charts using the [Operator Framework](https://operatorframework.io/) | - |
 | 45 mins | [Lab: STIX-Shifter version2 101](https://github.com/remkohdev/stixshifter101) | Create a stix-shifter connector to iThemes Security for WordPress | - |
 | 45 mins | [Lab: Container Security 301](https://developer.ibm.com/tutorials/installing-and-using-sysdig-falco/) | Set up runtime container security monitoring with Falco and Kubernetes | - |
+| 30 mins | [Lab: API Security 101](https://ibm-developer.gitbook.io/cloudpakforintegration-workshop/workshop/exercise-api-connect) | Create and publish a managed API endpoint for an existing REST service, using API Connect | - |
 
 ### Upcoming
 
@@ -40,8 +41,8 @@
 | - | [Lab: Istio Security 201](generatedContent/link) | Add mutual TLS Authentication and Encryption of Data-in-Motion with Istio | Under Review |
 | - | [Lab: QRadar Apps 101](generatedContent/link) | Create a QRadar App for iThemes Security for WordPress | Under Review |
 | - | [Lab: QRadar Modules 101](generatedContent/link) | Create a QRadar DSM (Device Support Module) for iThemes Security for WordPress | Under Review |
+| - | [Lab: API Security 201](https://code.remkoh.dev/api-connect) | Securing your API with API Connect, DataPower Gateway and App ID | Under Review |
 | - | [Lab: Kubernetes Policy 201](generatedContent/link) | Integrate Open Policy Agent (OPA) on Kubernetes to Secure a Node.js Loopback v4 API | Coming soon |
-
 
 ## 1-Day Agenda
 
