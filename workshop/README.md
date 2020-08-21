@@ -5,6 +5,7 @@
 - [Lectures](#lectures)
 - [Hands-on Labs](#hands-on-labs)
   - [Current](#current)
+  - [Developer Starter Kits](#developer-starter-kits)
   - [Upcoming](#upcoming)
 - [1-Day Agenda](#1-day-agenda)
 - [On-Demand Replays](#on-demand-replays)
@@ -34,6 +35,16 @@
 | 45 mins | [Lab: STIX-Shifter version2 101](https://github.com/remkohdev/stixshifter101) | Create a stix-shifter connector to iThemes Security for WordPress | - |
 | 45 mins | [Lab: Container Security 301](https://developer.ibm.com/tutorials/installing-and-using-sysdig-falco/) | Set up runtime container security monitoring with Falco and Kubernetes | - |
 | 30 mins | [Lab: API Security 101](https://ibm-developer.gitbook.io/cloudpakforintegration-workshop/workshop/exercise-api-connect) | Create and publish a managed API endpoint for an existing REST service, using API Connect | - |
+
+### Developer Starter Kits
+
+* [Cloud Native Security Starter](https://ibm-developer.gitbook.io/get-started-with-security-for-your-java-microservi/):
+  * Exercise 1.2: Expose Istio Ingress Gateway,
+  * Exercise 1.3: Expose the gateway via DNS with TLS enabled,
+  * Exercise 1.4: Setup Keycloak
+  * Exercise 2.2: Secure microservices with strict mTLS,
+  * Exercise 3.2: Authentication in Vue.js with frontend application,
+  * Exercise 3.3: Authorization in Quarkus application,
 
 ### Upcoming
 
