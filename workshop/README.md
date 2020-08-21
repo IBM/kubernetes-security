@@ -38,7 +38,7 @@
 
 ### Developer Starter Kits
 
-* [Cloud Native Security Starter](https://ibm-developer.gitbook.io/get-started-with-security-for-your-java-microservi/):
+* [Get Started with Security for your Java Microservice](https://ibm-developer.gitbook.io/get-started-with-security-for-your-java-microservi/):
   * Exercise 1.2: Expose Istio Ingress Gateway,
   * Exercise 1.3: Expose the gateway via DNS with TLS enabled,
   * Exercise 1.4: Setup Keycloak
