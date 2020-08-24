@@ -45,6 +45,8 @@
   * Exercise 2.2: Secure microservices with strict mTLS,
   * Exercise 3.2: Authentication in Vue.js with frontend application,
   * Exercise 3.3: Authorization in Quarkus application,
+* [DDC: Example Bank App](https://credit-card.ibmdeveloper.net/)
+  * [Article: Threat modeling in the context of microservice architectures](https://developer.ibm.com/articles/threat-modeling-microservices-openshift-4/)
 
 ### Upcoming
 
